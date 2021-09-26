@@ -8,7 +8,7 @@
 - [このサイト](https://medium.com/axinc/ailia-sdk-チュートリアル-python-28379dbc9649) に手順が書いてある（特にライセンスの置く位置に注意）
 ### インストール
 ```shell
-git clone git@github.com:ak0592/human_segmentation.git
+git clone https://github.com/ak0592/human_segmentation.git
 ```
 ### 使い方
 1. プロセスの実行  
